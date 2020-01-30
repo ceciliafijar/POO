@@ -1,0 +1,9 @@
+C:\Users\cecil\source\repos\MiPrimerProyectoConsola\MiPrimerProyectoWindowsFrom\bin\Debug\MiPrimerProyectoWindowsFrom.exe.config
+C:\Users\cecil\source\repos\MiPrimerProyectoConsola\MiPrimerProyectoWindowsFrom\bin\Debug\MiPrimerProyectoWindowsFrom.exe
+C:\Users\cecil\source\repos\MiPrimerProyectoConsola\MiPrimerProyectoWindowsFrom\bin\Debug\MiPrimerProyectoWindowsFrom.pdb
+C:\Users\cecil\source\repos\MiPrimerProyectoConsola\MiPrimerProyectoWindowsFrom\obj\Debug\MiPrimerProyectoWindowsFrom.csprojAssemblyReference.cache
+C:\Users\cecil\source\repos\MiPrimerProyectoConsola\MiPrimerProyectoWindowsFrom\obj\Debug\MiPrimerProyectoWindowsFrom.Form1.resources
+C:\Users\cecil\source\repos\MiPrimerProyectoConsola\MiPrimerProyectoWindowsFrom\obj\Debug\MiPrimerProyectoWindowsFrom.Properties.Resources.resources
+C:\Users\cecil\source\repos\MiPrimerProyectoConsola\MiPrimerProyectoWindowsFrom\obj\Debug\MiPrimerProyectoWindowsFrom.csproj.GenerateResource.cache
+C:\Users\cecil\source\repos\MiPrimerProyectoConsola\MiPrimerProyectoWindowsFrom\obj\Debug\MiPrimerProyectoWindowsFrom.exe
+C:\Users\cecil\source\repos\MiPrimerProyectoConsola\MiPrimerProyectoWindowsFrom\obj\Debug\MiPrimerProyectoWindowsFrom.pdb

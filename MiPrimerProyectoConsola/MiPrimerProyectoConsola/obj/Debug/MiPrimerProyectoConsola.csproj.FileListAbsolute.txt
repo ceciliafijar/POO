@@ -1,0 +1,6 @@
+C:\Users\cecil\source\repos\MiPrimerProyectoConsola\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.exe.config
+C:\Users\cecil\source\repos\MiPrimerProyectoConsola\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.exe
+C:\Users\cecil\source\repos\MiPrimerProyectoConsola\MiPrimerProyectoConsola\bin\Debug\MiPrimerProyectoConsola.pdb
+C:\Users\cecil\source\repos\MiPrimerProyectoConsola\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.csprojAssemblyReference.cache
+C:\Users\cecil\source\repos\MiPrimerProyectoConsola\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.exe
+C:\Users\cecil\source\repos\MiPrimerProyectoConsola\MiPrimerProyectoConsola\obj\Debug\MiPrimerProyectoConsola.pdb
