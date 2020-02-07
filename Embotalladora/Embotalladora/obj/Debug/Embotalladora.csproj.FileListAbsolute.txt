@@ -1,0 +1,9 @@
+C:\Users\cecil\source\repos\Embotalladora\Embotalladora\bin\Debug\Embotalladora.exe.config
+C:\Users\cecil\source\repos\Embotalladora\Embotalladora\bin\Debug\Embotalladora.exe
+C:\Users\cecil\source\repos\Embotalladora\Embotalladora\bin\Debug\Embotalladora.pdb
+C:\Users\cecil\source\repos\Embotalladora\Embotalladora\obj\Debug\Embotalladora.csprojAssemblyReference.cache
+C:\Users\cecil\source\repos\Embotalladora\Embotalladora\obj\Debug\Embotalladora.Properties.Resources.resources
+C:\Users\cecil\source\repos\Embotalladora\Embotalladora\obj\Debug\Embotalladora.csproj.GenerateResource.cache
+C:\Users\cecil\source\repos\Embotalladora\Embotalladora\obj\Debug\Embotalladora.exe
+C:\Users\cecil\source\repos\Embotalladora\Embotalladora\obj\Debug\Embotalladora.pdb
+C:\Users\cecil\source\repos\Embotalladora\Embotalladora\obj\Debug\Embotalladora.fmrEmbotelladora.resources
