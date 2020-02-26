@@ -1,9 +1,0 @@
-C:\Users\cecil\source\repos\CalculadoraDePromedios\CalculadoraDePromedios\bin\Debug\CalculadoraDePromedios.exe.config
-C:\Users\cecil\source\repos\CalculadoraDePromedios\CalculadoraDePromedios\bin\Debug\CalculadoraDePromedios.exe
-C:\Users\cecil\source\repos\CalculadoraDePromedios\CalculadoraDePromedios\bin\Debug\CalculadoraDePromedios.pdb
-C:\Users\cecil\source\repos\CalculadoraDePromedios\CalculadoraDePromedios\obj\Debug\CalculadoraDePromedios.csprojAssemblyReference.cache
-C:\Users\cecil\source\repos\CalculadoraDePromedios\CalculadoraDePromedios\obj\Debug\CalculadoraDePromedios.Form1.resources
-C:\Users\cecil\source\repos\CalculadoraDePromedios\CalculadoraDePromedios\obj\Debug\CalculadoraDePromedios.Properties.Resources.resources
-C:\Users\cecil\source\repos\CalculadoraDePromedios\CalculadoraDePromedios\obj\Debug\CalculadoraDePromedios.csproj.GenerateResource.cache
-C:\Users\cecil\source\repos\CalculadoraDePromedios\CalculadoraDePromedios\obj\Debug\CalculadoraDePromedios.exe
-C:\Users\cecil\source\repos\CalculadoraDePromedios\CalculadoraDePromedios\obj\Debug\CalculadoraDePromedios.pdb
