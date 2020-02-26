@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedidasDeUnCuadrado", "MedidasDeUnCuadrado\MedidasDeUnCuadrado.csproj", "{9713942D-FE3E-4B83-B83E-D708C4AE49DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9713942D-FE3E-4B83-B83E-D708C4AE49DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9713942D-FE3E-4B83-B83E-D708C4AE49DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9713942D-FE3E-4B83-B83E-D708C4AE49DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9713942D-FE3E-4B83-B83E-D708C4AE49DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D4C7590-6994-4AD8-B517-B44CF5F6B2DD}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\cecil\source\repos\ClasificadorDePersonas\ClasificadorDePersonas\bin\Debug\ClasificadorDePersonas.exe.config
+C:\Users\cecil\source\repos\ClasificadorDePersonas\ClasificadorDePersonas\bin\Debug\ClasificadorDePersonas.exe
+C:\Users\cecil\source\repos\ClasificadorDePersonas\ClasificadorDePersonas\bin\Debug\ClasificadorDePersonas.pdb
+C:\Users\cecil\source\repos\ClasificadorDePersonas\ClasificadorDePersonas\obj\Debug\ClasificadorDePersonas.csprojAssemblyReference.cache
+C:\Users\cecil\source\repos\ClasificadorDePersonas\ClasificadorDePersonas\obj\Debug\ClasificadorDePersonas.Consierto.resources
+C:\Users\cecil\source\repos\ClasificadorDePersonas\ClasificadorDePersonas\obj\Debug\ClasificadorDePersonas.Properties.Resources.resources
+C:\Users\cecil\source\repos\ClasificadorDePersonas\ClasificadorDePersonas\obj\Debug\ClasificadorDePersonas.csproj.GenerateResource.cache
+C:\Users\cecil\source\repos\ClasificadorDePersonas\ClasificadorDePersonas\obj\Debug\ClasificadorDePersonas.exe
+C:\Users\cecil\source\repos\ClasificadorDePersonas\ClasificadorDePersonas\obj\Debug\ClasificadorDePersonas.pdb

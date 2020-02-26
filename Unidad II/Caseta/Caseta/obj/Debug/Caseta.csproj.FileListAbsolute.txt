@@ -1,0 +1,9 @@
+C:\Users\cecil\source\repos\Caseta\Caseta\bin\Debug\Caseta.exe.config
+C:\Users\cecil\source\repos\Caseta\Caseta\bin\Debug\Caseta.exe
+C:\Users\cecil\source\repos\Caseta\Caseta\bin\Debug\Caseta.pdb
+C:\Users\cecil\source\repos\Caseta\Caseta\obj\Debug\Caseta.csprojAssemblyReference.cache
+C:\Users\cecil\source\repos\Caseta\Caseta\obj\Debug\Caseta.Form1.resources
+C:\Users\cecil\source\repos\Caseta\Caseta\obj\Debug\Caseta.Properties.Resources.resources
+C:\Users\cecil\source\repos\Caseta\Caseta\obj\Debug\Caseta.csproj.GenerateResource.cache
+C:\Users\cecil\source\repos\Caseta\Caseta\obj\Debug\Caseta.exe
+C:\Users\cecil\source\repos\Caseta\Caseta\obj\Debug\Caseta.pdb

@@ -1,0 +1,9 @@
+C:\Users\cecil\source\repos\MedidasDeUnCuadrado\MedidasDeUnCuadrado\bin\Debug\MedidasDeUnCuadrado.exe.config
+C:\Users\cecil\source\repos\MedidasDeUnCuadrado\MedidasDeUnCuadrado\bin\Debug\MedidasDeUnCuadrado.exe
+C:\Users\cecil\source\repos\MedidasDeUnCuadrado\MedidasDeUnCuadrado\bin\Debug\MedidasDeUnCuadrado.pdb
+C:\Users\cecil\source\repos\MedidasDeUnCuadrado\MedidasDeUnCuadrado\obj\Debug\MedidasDeUnCuadrado.csprojAssemblyReference.cache
+C:\Users\cecil\source\repos\MedidasDeUnCuadrado\MedidasDeUnCuadrado\obj\Debug\MedidasDeUnCuadrado.Form1.resources
+C:\Users\cecil\source\repos\MedidasDeUnCuadrado\MedidasDeUnCuadrado\obj\Debug\MedidasDeUnCuadrado.Properties.Resources.resources
+C:\Users\cecil\source\repos\MedidasDeUnCuadrado\MedidasDeUnCuadrado\obj\Debug\MedidasDeUnCuadrado.csproj.GenerateResource.cache
+C:\Users\cecil\source\repos\MedidasDeUnCuadrado\MedidasDeUnCuadrado\obj\Debug\MedidasDeUnCuadrado.exe
+C:\Users\cecil\source\repos\MedidasDeUnCuadrado\MedidasDeUnCuadrado\obj\Debug\MedidasDeUnCuadrado.pdb

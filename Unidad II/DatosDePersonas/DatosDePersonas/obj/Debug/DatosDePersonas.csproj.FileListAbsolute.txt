@@ -1,0 +1,4 @@
+C:\Users\cecil\source\repos\DatosDePersonas\DatosDePersonas\obj\Debug\DatosDePersonas.csprojAssemblyReference.cache
+C:\Users\cecil\source\repos\DatosDePersonas\DatosDePersonas\obj\Debug\DatosDePersonas.Form1.resources
+C:\Users\cecil\source\repos\DatosDePersonas\DatosDePersonas\obj\Debug\DatosDePersonas.Properties.Resources.resources
+C:\Users\cecil\source\repos\DatosDePersonas\DatosDePersonas\obj\Debug\DatosDePersonas.csproj.GenerateResource.cache

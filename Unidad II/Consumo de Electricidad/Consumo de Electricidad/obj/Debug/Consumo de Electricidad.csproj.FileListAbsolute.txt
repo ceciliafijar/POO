@@ -1,0 +1,9 @@
+C:\Users\cecil\source\repos\Consumo de Electricidad\Consumo de Electricidad\bin\Debug\Consumo de Electricidad.exe.config
+C:\Users\cecil\source\repos\Consumo de Electricidad\Consumo de Electricidad\bin\Debug\Consumo de Electricidad.exe
+C:\Users\cecil\source\repos\Consumo de Electricidad\Consumo de Electricidad\bin\Debug\Consumo de Electricidad.pdb
+C:\Users\cecil\source\repos\Consumo de Electricidad\Consumo de Electricidad\obj\Debug\Consumo de Electricidad.csprojAssemblyReference.cache
+C:\Users\cecil\source\repos\Consumo de Electricidad\Consumo de Electricidad\obj\Debug\Consumo_de_Electricidad.Form1.resources
+C:\Users\cecil\source\repos\Consumo de Electricidad\Consumo de Electricidad\obj\Debug\Consumo_de_Electricidad.Properties.Resources.resources
+C:\Users\cecil\source\repos\Consumo de Electricidad\Consumo de Electricidad\obj\Debug\Consumo de Electricidad.csproj.GenerateResource.cache
+C:\Users\cecil\source\repos\Consumo de Electricidad\Consumo de Electricidad\obj\Debug\Consumo de Electricidad.exe
+C:\Users\cecil\source\repos\Consumo de Electricidad\Consumo de Electricidad\obj\Debug\Consumo de Electricidad.pdb

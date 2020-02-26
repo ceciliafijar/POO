@@ -1,0 +1,9 @@
+C:\Users\cecil\source\repos\MayorDeEdad\MayorDeEdad\obj\Debug\MayorDeEdad.csprojAssemblyReference.cache
+C:\Users\cecil\source\repos\MayorDeEdad\MayorDeEdad\obj\Debug\MayorDeEdad.Form1.resources
+C:\Users\cecil\source\repos\MayorDeEdad\MayorDeEdad\obj\Debug\MayorDeEdad.Properties.Resources.resources
+C:\Users\cecil\source\repos\MayorDeEdad\MayorDeEdad\obj\Debug\MayorDeEdad.csproj.GenerateResource.cache
+C:\Users\cecil\source\repos\MayorDeEdad\MayorDeEdad\bin\Debug\MayorDeEdad.exe.config
+C:\Users\cecil\source\repos\MayorDeEdad\MayorDeEdad\bin\Debug\MayorDeEdad.exe
+C:\Users\cecil\source\repos\MayorDeEdad\MayorDeEdad\bin\Debug\MayorDeEdad.pdb
+C:\Users\cecil\source\repos\MayorDeEdad\MayorDeEdad\obj\Debug\MayorDeEdad.exe
+C:\Users\cecil\source\repos\MayorDeEdad\MayorDeEdad\obj\Debug\MayorDeEdad.pdb

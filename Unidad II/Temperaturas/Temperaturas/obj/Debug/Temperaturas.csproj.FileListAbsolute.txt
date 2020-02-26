@@ -1,0 +1,9 @@
+C:\Users\cecil\source\repos\Temperaturas\Temperaturas\bin\Debug\Temperaturas.exe.config
+C:\Users\cecil\source\repos\Temperaturas\Temperaturas\bin\Debug\Temperaturas.exe
+C:\Users\cecil\source\repos\Temperaturas\Temperaturas\bin\Debug\Temperaturas.pdb
+C:\Users\cecil\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.csprojAssemblyReference.cache
+C:\Users\cecil\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.lblGradosConvert.resources
+C:\Users\cecil\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.Properties.Resources.resources
+C:\Users\cecil\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.csproj.GenerateResource.cache
+C:\Users\cecil\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.exe
+C:\Users\cecil\source\repos\Temperaturas\Temperaturas\obj\Debug\Temperaturas.pdb
